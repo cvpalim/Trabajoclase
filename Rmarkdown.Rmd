@@ -17,7 +17,7 @@ _Esto es una muestra de datos_
 pairs(airquality)
 ```
 
-Esto es un modelo de regresion del ozono
+***Esto es un modelo de regresion del ozono***
 ```{r}
 ajuste<-lm(Ozone ~ Solar.R + Wind +Temp, data = airquality)
 summary(ajuste)
