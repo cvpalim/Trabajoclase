@@ -10,4 +10,4 @@ En este documento encontrarann en que consiste cada proyecto y los ejemplos que 
 
 Este proyecto consiste en la elaboracion de un shiny utilizando como plantilla/ejemplo a Google Charts demo.
 
-El Markdown consiste de la explicacion de 
+El Markdown consiste de la explicacion de airquality con sus graficos y tablas, realizando un modelo de datos y por ultimo un modelo de regresion del ozono.
