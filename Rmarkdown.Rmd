@@ -5,14 +5,14 @@ date: "30/10/2019"
 output: html_document
 ---
 
-Nuestro primer Markdown para la clase de Carlos
+*Nuestro primer Markdown para la clase de Carlos*
 ```{r}
 library(datasets)
 data("airquality")
 summary(airquality)
 ```
 
-Esto es una muestra de datos 
+_Esto es una muestra de datos_ 
 ```{r}
 pairs(airquality)
 ```
